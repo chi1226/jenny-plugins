@@ -1,0 +1,9 @@
+{
+  "name": "job-hunt-designer",
+  "description": "設計師求職包：把專案包成 case study、建立專案脈絡、模擬面試出題與追問。Job-hunting toolkit for designers: turn projects into case studies, capture project context once, and run tough mock interviews.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Jenny Liu",
+    "url": "https://jenny-liu.framer.website/"
+  }
+}

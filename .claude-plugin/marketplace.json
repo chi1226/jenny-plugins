@@ -9,7 +9,19 @@
       "name": "design-flow",
       "displayName": "Design Flow",
       "source": "./design-flow",
-      "description": "雙鑽石設計流程包：使用者研究 → 問題定義 → 發想 → 交付驗證的 28 個 skill，含流程導覽員。"
+      "description": "雙鑽石設計流程包：使用者研究 → 問題定義 → 發想 → 交付驗證的 28 個 skill，含流程導覽員。Double-diamond design process: 28 skills from research to delivery."
+    },
+    {
+      "name": "product-builder",
+      "displayName": "Product Builder",
+      "source": "./product-builder",
+      "description": "從想法到能點的產品：PRD、優先級、設計系統、生成前端、動效、串 API。From idea to clickable product: PRD, design system, real front-end, motion, APIs."
+    },
+    {
+      "name": "job-hunt-designer",
+      "displayName": "Job Hunt Designer",
+      "source": "./job-hunt-designer",
+      "description": "設計師求職包：case study 敘事、專案簡報、模擬面試。Job-hunting toolkit for designers: case studies, project briefs, mock interviews."
     }
   ]
 }

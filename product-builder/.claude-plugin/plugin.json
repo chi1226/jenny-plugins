@@ -1,0 +1,9 @@
+{
+  "name": "product-builder",
+  "description": "從想法到能點的產品：PRD、優先級、設計系統、Figma 設計稿、真前端畫面、動效、串 API，一條龍的 vibe coding 生產包。From idea to clickable product: PRD, prioritization, design system, Figma mockups, real front-end screens, motion, and API integration — the full vibe-coding pipeline.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Jenny Liu",
+    "url": "https://jenny-liu.framer.website/"
+  }
+}

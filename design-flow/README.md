@@ -2,6 +2,8 @@
 
 雙鑽石設計流程 plugin —— 把一套完整的產品設計方法論裝進 Claude。
 
+*A double-diamond design process toolkit for Claude: 28 skills covering user research, problem definition, ideation, and delivery. Skills are written in Traditional Chinese.*
+
 由 [Jenny Liu](https://jenny-liu.framer.website/)（UIUX / Product Designer）打造，涵蓋從使用者研究到交付驗證的 28 個 skill，以雙鑽石（Double Diamond）為總框架，每個階段的產出可以一棒接一棒往下傳。
 
 ## 安裝
@@ -48,8 +50,11 @@ design-critique（結構化評論）、usability-test、ux-flow-friction（摩�
 - **一棒接一棒**：上一個 skill 的產出就是下一個的輸入，skill 之間用 [[wiki 連結]] 互相引用。
 - **生成 + 檢查成對**：關鍵產出（訪談題目、Job Story、PS、HMW）都有對應的 review/critique skill 把關品質。
 
-## 待辦（v0.2）
+## 連接器（選用）
 
-- [x] 把 skill 內文的「Jenny」改成通用稱呼，供他人安裝使用（2026-07-15 完成）
-- [ ] 英文版 description 供國際使用者
-- [ ] 加入 Figma / Notion 連接器設定範例（.mcp.json）
+plugin 附 `.mcp.json` 範例，接上 Figma（讀設計稿）與 Notion（存研究資料）。第一次使用會跳出授權，不需要可以直接刪掉這個檔案。
+
+## 版本
+
+- v0.2.0（2026-07-15）：skill 通用化（移除個人稱呼）、雙語 description、.mcp.json 連接器範例
+- v0.1.0（2026-07-15）：初版，28 個 skill + /design-flow:next
