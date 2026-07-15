@@ -1,0 +1,15 @@
+{
+  "name": "jenny-plugins",
+  "owner": {
+    "name": "Jenny Liu",
+    "url": "https://jenny-liu.framer.website/"
+  },
+  "plugins": [
+    {
+      "name": "design-flow",
+      "displayName": "Design Flow",
+      "source": "./design-flow",
+      "description": "雙鑽石設計流程包：使用者研究 → 問題定義 → 發想 → 交付驗證的 28 個 skill，含流程導覽員。"
+    }
+  ]
+}
